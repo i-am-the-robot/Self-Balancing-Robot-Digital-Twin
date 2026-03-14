@@ -6,7 +6,7 @@ This is the companion tool to the [Self-Balancing Robot PID Control](https://git
 
 ![Digital Twin Screenshot](Screenshot1.png)
 ---
-![Digital Twin Screenshot2](Screenshot2.png)
+![Digital Twin Screenshot2](Screenshot2.jpg)
 ---
 
 ## What It Does
