@@ -63,7 +63,7 @@ If you want to use a different baud rate, change it in the baud rate dropdown be
 
 ## Related
 
-Full write-up on the physical robot: [What Building a Self-Balancing Robot Taught Me After Many Days of Tuning](https://www.linkedin.com/in/salisutitilola123)
+Full write-up on the physical robot: [What Building a Self-Balancing Robot Taught Me After Many Days of Tuning](https://www.linkedin.com/pulse/what-building-self-balancing-robot-taught-me-after-many-titilola-xlhef)
 
 Physical robot code: [Self Balancing Robot PID Control](https://github.com/i-am-the-robot/Self-Balancing-Robot-PID)
 
