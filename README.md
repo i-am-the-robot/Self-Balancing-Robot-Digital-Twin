@@ -5,7 +5,7 @@ After building and tuning my self-balancing robot, I wanted to go beyond what I 
 This is the companion tool to the [Self-Balancing Robot PID Control](https://github.com/i-am-the-robot/Self-Balancing-Robot-PID) project.
 
 ![Digital Twin Screenshot](Screenshot1.png)
-
+---
 ![Digital Twin Screenshot2](Screenshot2.png)
 ---
 
